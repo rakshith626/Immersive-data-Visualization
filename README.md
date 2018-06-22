@@ -29,7 +29,12 @@ A-Frame supports most VR headsets such as Vive, Rift, Windows Mixed Reality, Day
 
 
 ## babylon.js
-Babylon.js is an open-source 3D gaming framework using WebGL, WebVR, Web Audio and other API like Gamepad. Models can be exported from Blender, ...
-
+An open source 3D engine based on webGL and Javascript.
+Easy to Try and Setup
+The quickest way to see how to use the engine is to head to the First Steps. For your own HTML project nothing needs to be installed on your computer and nothing needs to be installed by a client to run your program. See how simple it is with the getting started tutorial below. Check out the Index or the Features Section to see what is available. Build your first scene and develop it by following the Babylon 101 Course Then move on the find out how to do more. An overview of the documentation is at the bottom of the page.
+WebGL
+Web Graphics Library, or WebGL, is a JavaScript API designed to render interactive 3D computer graphics and 2D graphics within any compatible web browser, without the use of any plug-ins.
+Javascript
+Also know as ECMAScript, JavaScript is a dynamic, prototype-based scripting language, with first-class functions. Widely used on client-side (and sometimes even server-side, like on this website!), Javascript is the language that BabylonJS is based on.
 
 
