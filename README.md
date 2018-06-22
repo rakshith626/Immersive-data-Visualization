@@ -33,4 +33,3 @@ Babylon.js is an open-source 3D gaming framework using WebGL, WebVR, Web Audio a
 
 
 
-[![IMAGE ALT TEXT HERE]https://www.youtube.com/watch?v=wacNaAVGXdU
